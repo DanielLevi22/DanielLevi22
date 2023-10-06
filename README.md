@@ -4,7 +4,8 @@
 
 ![Daniel GitHub stats](https://github-readme-stats.vercel.app/api?username=daniellevi22&show_icons=true&theme=dracula)
 
- 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniellevi22)](https://github.com/daniellevi22/github-readme-stats)
+
 ## Tecnologias que uso no meu dia a dia
 
 <div style="display: inline_block">
