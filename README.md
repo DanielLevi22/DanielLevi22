@@ -22,4 +22,4 @@
 ## Contato
 Telefone: 85981372425
 - Telefone: (85)9-8137-2425
-- E-mail:d aniellevi000@gmail.com
+- E-mail: daniellevi000@gmail.com
