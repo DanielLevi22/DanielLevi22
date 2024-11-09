@@ -6,7 +6,7 @@
 Desenvolvedor web com experiência em React, Angular, Next.js, HTML5, CSS, JavaScript, SCSS, TypeScript, SEO, Git, Bitbucket , GitHub,GitFlow, Scrum e Kanban. Minhas habilidades no Front-End incluem a criação de interfaces intuitivas e responsivas, utilização de Figma para prototipação com conceitos de UI/UX, e desenvolvimento de Progressive Web Apps (PWA). No Back-End, possuo conhecimentos com Node.js, Nest.js, MongoDB, SQL, e a implementação de API RESTful. Atualmente, estou aprofundando meus conhecimentos em Design Patterns, Clean Architecture e Domain-Driven Design (DDD), aplicando esses conceitos em projetos utilizando Node e Nest.js. Meu compromisso é sempre entregar soluções eficientes e de alta qualidade, alinhando tecnologia e inovação para atender às necessidades dos clientes.
 </p>
 
-<h3 align="left">Connect with me!</h3>
+<h3 align="left">Connect-se</h3>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:daniellevi000@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF0f6&color:FFF)](https://www.linkedin.com/in/daniel-levi-developer/)
